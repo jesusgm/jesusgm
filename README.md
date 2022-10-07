@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I like to ride a mountain bike**
 
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jesusgandaramartinez/" target="blank">
+    <a href="https://www.linkedin.com/in/jesusgandaramartinez/" target="blank">
         ¿Quieres contactar conmigo? Por aquí 👉
         <img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/jesusgandaramartinez/" height="30" width="30" />
     </a>
