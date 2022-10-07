@@ -14,6 +14,7 @@
 
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jesusgandaramartinez/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jesusgandaramartinez/" height="30" width="30" />
+        ¿Quieres contactar conmigo? Por aquí 👉
+        <img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/jesusgandaramartinez/" height="30" width="30" />
     </a>
 </p>
