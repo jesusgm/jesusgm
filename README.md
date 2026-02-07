@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jesús Gándara Martínez</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+13%2B+years+of+experience;Building+clean%2C+scalable+frontends;Clean+Architecture+%7C+DDD+%7C+React+%7C+TypeScript" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+12%2B+years+of+experience;Building+clean%2C+scalable+frontends;Clean+Architecture+%7C+DDD+%7C+React+%7C+TypeScript" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working at **[Stayforlong](https://www.stayforlong.com/)** as Frontend Developer
-- ⏳ **+13 years** of experience in web development
+- ⏳ **+12 years** of experience in web development
 - 🏗️ Passionate about **Clean Architecture**, **Hexagonal Architecture** and **DDD**
 - 🌱 Always learning and improving — I believe in the small details that make the difference
 - 🤝 Interested in **mentoring** and knowledge sharing
