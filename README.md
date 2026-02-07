@@ -55,12 +55,12 @@
 
 ## 💼 Work Experience
 
-| Period         | Company                                         | Role                 | Highlights                                                                                                      |
-| -------------- | ----------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 2022 – Present | **[Stayforlong](https://www.stayforlong.com/)** | Frontend Developer   | Design system in React + TS, hexagonal architecture migration, code reviews, React Native app for Android & iOS |
-| 2017 – 2022    | **atSistemas**                                  | Frontend Developer   | React + Redux for a leading textile company                                                                     |
-| 2015 – 2017    | **Redegal**                                     | Full-stack Developer | E-commerce with Prestashop, PHP modules, SEO optimization, Akamai cache                                         |
-| 2013 – 2015    | **ZIBLEC Software**                             | Web Developer        | HTML5, CSS3, JavaScript, jQuery, PHP, Joomla CMS                                                                |
+| Period         | Company                                                           | Role                 | Highlights                                                                                                      |
+| -------------- | ----------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022 – Present | **[Stayforlong](https://www.stayforlong.com/)**                   | Frontend Developer   | Design system in React + TS, hexagonal architecture migration, code reviews, React Native app for Android & iOS |
+| 2017 – 2022    | **[atSistemas (now knowmad mood)](https://www.knowmadmood.com/)** | Frontend Developer   | React + Redux for a leading textile company                                                                     |
+| 2015 – 2017    | **[Redegal](https://www.redegal.com/en/)**                        | Full-stack Developer | E-commerce with Prestashop, PHP modules, SEO optimization, Akamai cache                                         |
+| 2013 – 2015    | **[ZIBLEC Software](http://ziblec.com/)**                         | Web Developer        | HTML5, CSS3, JavaScript, jQuery, PHP, Joomla CMS                                                                |
 
 ---
 
@@ -91,16 +91,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesusgm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=jesusgm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusgm&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusgm&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusgm&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesusgm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

@@ -55,12 +55,12 @@
 
 ## 💼 Experiencia Profesional
 
-| Período           | Empresa                                         | Rol                      | Destacado                                                                                                                |
-| ----------------- | ----------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 2022 – Actualidad | **[Stayforlong](https://www.stayforlong.com/)** | Desarrollador Frontend   | Design system en React + TS, migración a arquitectura hexagonal, revisión de código, app React Native para Android e iOS |
-| 2017 – 2022       | **atSistemas**                                  | Desarrollador Frontend   | React + Redux para empresa líder del sector textil                                                                       |
-| 2015 – 2017       | **Redegal**                                     | Desarrollador Full-stack | E-commerce con Prestashop, módulos PHP, optimización SEO, caché Akamai                                                   |
-| 2013 – 2015       | **ZIBLEC Software**                             | Desarrollador Web        | HTML5, CSS3, JavaScript, jQuery, PHP, Joomla CMS                                                                         |
+| Período           | Empresa                                                               | Rol                      | Destacado                                                                                                                |
+| ----------------- | --------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 2022 – Actualidad | **[Stayforlong](https://www.stayforlong.com/)**                       | Desarrollador Frontend   | Design system en React + TS, migración a arquitectura hexagonal, revisión de código, app React Native para Android e iOS |
+| 2017 – 2022       | **[atSistemas (ahora knowmad mood)](https://www.knowmadmood.com/es)** | Desarrollador Frontend   | React + Redux para empresa líder del sector textil                                                                       |
+| 2015 – 2017       | **[Redegal](https://www.redegal.com/es/)**                            | Desarrollador Full-stack | E-commerce con Prestashop, módulos PHP, optimización SEO, caché Akamai                                                   |
+| 2013 – 2015       | **[ZIBLEC Software](http://ziblec.com/)**                             | Desarrollador Web        | HTML5, CSS3, JavaScript, jQuery, PHP, Joomla CMS                                                                         |
 
 ---
 
@@ -91,16 +91,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesusgm&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=jesusgm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusgm&theme=tokyonight" alt="Resumen del perfil de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusgm&theme=tokyonight" alt="Lenguajes por repositorio" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusgm&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesusgm&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
