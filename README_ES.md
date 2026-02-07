@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, soy Jesús Gándara Martínez</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Desarrollador+Frontend+%7C+%2B12+a%C3%B1os+de+experiencia;Construyendo+frontends+limpios+y+escalables;Clean+Architecture+%7C+DDD+%7C+React+%7C+TypeScript" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Desarrollador+Frontend+%7C+%2B13+a%C3%B1os+de+experiencia;Construyendo+frontends+limpios+y+escalables;Clean+Architecture+%7C+DDD+%7C+React+%7C+TypeScript" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🔭 Actualmente trabajo en **[Stayforlong](https://www.stayforlong.com/)** como Desarrollador Frontend
-- ⏳ **+12 años** de experiencia en el mundo de la programación y el desarrollo web
+- ⏳ **+13 años** de experiencia en el mundo de la programación y el desarrollo web
 - 🏗️ Apasionado de la **Clean Architecture**, **Arquitectura Hexagonal** y **DDD**
 - 🌱 Siempre aprendiendo y mejorando — creo en los pequeños detalles que marcan la diferencia
 - 🤝 Interesado en **mentoría** y compartir conocimiento
