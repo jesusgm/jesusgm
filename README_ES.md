@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
 - 🔭 Actualmente trabajo en **[Stayforlong](https://www.stayforlong.com/)** como Desarrollador Frontend
 - ⏳ **+10 años** de experiencia en el mundo de la programación y el desarrollo web
@@ -55,12 +55,12 @@
 
 ## 💼 Experiencia Profesional
 
-| Período | Empresa | Rol | Destacado |
-|---------|---------|-----|-----------|
-| 2022 – Actualidad | **[Stayforlong](https://www.stayforlong.com/)** | Desarrollador Frontend | Design system en React + TS, migración a arquitectura hexagonal, revisión de código, app React Native para Android e iOS |
-| 2017 – 2022 | **atSistemas** | Desarrollador Frontend | React + Redux para empresa líder del sector textil |
-| 2015 – 2017 | **Redegal** | Desarrollador Full-stack | E-commerce con Prestashop, módulos PHP, optimización SEO, caché Akamai |
-| 2013 – 2015 | **ZIBLEC Software** | Desarrollador Web | HTML5, CSS3, JavaScript, jQuery, PHP, Joomla CMS |
+| Período           | Empresa                                         | Rol                      | Destacado                                                                                                                |
+| ----------------- | ----------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 2022 – Actualidad | **[Stayforlong](https://www.stayforlong.com/)** | Desarrollador Frontend   | Design system en React + TS, migración a arquitectura hexagonal, revisión de código, app React Native para Android e iOS |
+| 2017 – 2022       | **atSistemas**                                  | Desarrollador Frontend   | React + Redux para empresa líder del sector textil                                                                       |
+| 2015 – 2017       | **Redegal**                                     | Desarrollador Full-stack | E-commerce con Prestashop, módulos PHP, optimización SEO, caché Akamai                                                   |
+| 2013 – 2015       | **ZIBLEC Software**                             | Desarrollador Web        | HTML5, CSS3, JavaScript, jQuery, PHP, Joomla CMS                                                                         |
 
 ---
 

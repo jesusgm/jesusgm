@@ -18,15 +18,14 @@
 
 ---
 
-## 🧑‍� About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently working at **[Stayforlong](https://www.stayforlong.com/)** as Frontend Developer
 - ⏳ **+10 years** of experience in web development
-- �️ Passionate about **Clean Architecture**, **Hexagonal Architecture** and **DDD**
+- 🏗️ Passionate about **Clean Architecture**, **Hexagonal Architecture** and **DDD**
 - 🌱 Always learning and improving — I believe in the small details that make the difference
 - 🤝 Interested in **mentoring** and knowledge sharing
 - 📍 Based in **Vigo, Spain**
-  f
 
 ---
 
@@ -54,7 +53,7 @@
 
 ---
 
-## � Work Experience
+## 💼 Work Experience
 
 | Period         | Company                                         | Role                 | Highlights                                                                                                      |
 | -------------- | ----------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
