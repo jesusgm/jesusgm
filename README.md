@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jesús Gándara Martínez</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+10%2B+years+of+experience;Building+clean%2C+scalable+frontends;Clean+Architecture+%7C+DDD+%7C+React+%7C+TypeScript" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+10%2B+years+of+experience;Building+clean%2C+scalable+frontends;Clean+Architecture+%7C+DDD+%7C+React+%7C+TypeScript" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
